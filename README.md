@@ -1,5 +1,4 @@
-# Carrie-White-Burns-in-Hell
-/*My first website with general assembly*/
+
 <!DOCTYPE html>
 <head>
 <title> Carrie's dream</title>
